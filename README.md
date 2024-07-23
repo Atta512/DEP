@@ -1,4 +1,5 @@
-python version 3.11.9
-Data set link: https://www.kaggle.com/datasets/shivachandel/kc-house-data
-Study source: Online from pandas, sklearn websites
-Dataset for email project: https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification
+- python version 3.11.9
+- Data set link: https://www.kaggle.com/datasets/shivachandel/kc-house-data
+- Study source: Online from pandas, sklearn websites
+- Dataset for email project: https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification
+- Dataset for churn prediction: https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
